@@ -3,8 +3,8 @@ function setup() {
     frameRate(5);
 }
 
-const size = 15;
-const divider = 30;
+const size = 10;
+const divider = 50;
 const numRows = 60;
 const numCols = 60;
 

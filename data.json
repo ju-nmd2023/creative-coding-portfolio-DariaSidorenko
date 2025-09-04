@@ -13,7 +13,7 @@
 
   {
     "file": "garritnoise2/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "name": "Garrit's example woth a twist 2.0",
+    "description": "This tutorial introduced me to implementing rows and columns together with frame rate. The purpose of following it was still to get back to coding and learn new techniques before implementing them in my own ideas."
   }
 ]
