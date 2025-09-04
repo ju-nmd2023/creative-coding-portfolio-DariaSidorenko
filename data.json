@@ -3,5 +3,17 @@
     "file": "experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+
+  {
+    "file": "garritnoise/example.js",
+    "name": "Trying to follow Garrit's example with a twist",
+    "description": "I followed a tutorial on how to use noise when drawing a shape, and decided to also learn how to apply it to colour shift with the purpose of understanding the functions better."
+  },
+
+  {
+    "file": "garritnoise2/example.js",
+    "name": "Name of your experiment",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   }
 ]
