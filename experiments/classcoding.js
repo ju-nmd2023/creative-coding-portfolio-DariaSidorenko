@@ -9,7 +9,6 @@ function setup() {
     velocity = createVector(5, 8);
     background(0);
 
-    //colorMode(HSB);
     blendMode(ADD);
 }
 
