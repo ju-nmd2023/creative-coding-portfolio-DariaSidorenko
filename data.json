@@ -1,19 +1,37 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
-  },
-
-  {
     "file": "garritnoise/example.js",
-    "name": "Trying to follow Garrit's example with a twist",
+    "name": "Noise line",
     "description": "I followed a tutorial on how to use noise when drawing a shape, and decided to also learn how to apply it to colour shift with the purpose of understanding the functions better."
   },
 
   {
     "file": "garritnoise2/example.js",
-    "name": "Garrit's example woth a twist 2.0",
+    "name": "Noise disco",
     "description": "This tutorial introduced me to implementing rows and columns together with frame rate. The purpose of following it was still to get back to coding and learn new techniques before implementing them in my own ideas."
+  },
+
+  {
+    "file": "caleidoscop/example.js",
+    "name": "Interactive caleidoscop",
+    "description": "Inspired by coding we did in class, I decided to create an interactive caleidoscop that creates mandala effect. Its shifts of colour and dot size create unique patterns with every move of the coursor and almost hypnotise the eye. Besides that, the pattern slowly disappears allowing for more patterns to be created."
+  },
+
+  {
+    "file": "daisies/example.js",
+    "name": "Daisies",
+    "description": "When thinking of what flowers to draw, a Russian song by one of my favourite artists came to mind: Daisies. It was an obvious choice."
+  },
+
+  {
+    "file": "waterLillies/example.js",
+    "name": "Water Lillies",
+    "description": "After creating daisies, the colour scheme triggered another memory. It's summer, I am 8 years old, swimming in the river and challenging myself to swim and get water lillies for my grandma as a gift. Sadly, they always fainted quickly, but these ones won't."
+  },
+
+  {
+    "file": "squares/example.js",
+    "name": "Abstract roses",
+    "description": "While this project initially started as drawing inspiration from an artist, I was still thinking of previous projects with flowers. Therefore, i altered the sharp corners to turn them into more rounded ones to create abstract looking roses."
   }
 ]
