@@ -1,37 +1,43 @@
 [
   {
-    "file": "garritnoise/example.js",
+    "file": "experiments/garritnoise.js",
     "name": "Noise line",
     "description": "I followed a tutorial on how to use noise when drawing a shape, and decided to also learn how to apply it to colour shift with the purpose of understanding the functions better."
   },
 
   {
-    "file": "garritnoise2/example.js",
+    "file": "experiments/garritnoise2.js",
     "name": "Noise disco",
     "description": "This tutorial introduced me to implementing rows and columns together with frame rate. The purpose of following it was still to get back to coding and learn new techniques before implementing them in my own ideas."
   },
 
   {
-    "file": "caleidoscop/example.js",
+    "file": "experiments/caleidoscop.js",
     "name": "Interactive caleidoscop",
     "description": "Inspired by coding we did in class, I decided to create an interactive caleidoscop that creates mandala effect. Its shifts of colour and dot size create unique patterns with every move of the coursor and almost hypnotise the eye. Besides that, the pattern slowly disappears allowing for more patterns to be created."
   },
 
   {
-    "file": "daisies/example.js",
+    "file": "experiments/daisies.js",
     "name": "Daisies",
     "description": "When thinking of what flowers to draw, a Russian song by one of my favourite artists came to mind: Daisies. It was an obvious choice."
   },
 
   {
-    "file": "waterLillies/example.js",
-    "name": "Water Lillies",
-    "description": "After creating daisies, the colour scheme triggered another memory. It's summer, I am 8 years old, swimming in the river and challenging myself to swim and get water lillies for my grandma as a gift. Sadly, they always fainted quickly, but these ones won't."
+    "file": "experiments/waterLilies.js",
+    "name": "Water Lilies",
+    "description": "After creating daisies, the colour scheme triggered another memory. It's summer, I am 8 years old, swimming in the river and challenging myself to swim and get water lilies for my grandma as a gift. Sadly, they always fainted quickly, but these ones won't."
   },
 
   {
-    "file": "squares/example.js",
+    "file": "experiments/squares.js",
     "name": "Abstract roses",
     "description": "While this project initially started as drawing inspiration from an artist, I was still thinking of previous projects with flowers. Therefore, i altered the sharp corners to turn them into more rounded ones to create abstract looking roses."
+  },
+
+  {
+    "file": "experiments/bees.js",
+    "name": "Busy bees",
+    "description": "The previous experiment made me think that I want to add motion to my project, after which another idea appeared - the lines don't have to be all one colour. Instead, the *buzzing* effect can be used to imitate living creatures - bees."
   }
 ]

@@ -1,6 +1,6 @@
 function setup(){
     createCanvas(innerWidth, innerHeight);
-    background(20, 40, 20);
+    background(28, 107, 160);
 }
 
 let flowerSize = 20;
