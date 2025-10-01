@@ -18,7 +18,7 @@ function drawLayers(x, y, size, layers){
         const s = (size / layers) * i;
         const half = s / 2;
 
-        //alters the black and yellow, had to ask ChatGPT how to do it
+        //alters the black and yellow, had to ask ChatGPT how to do it https://chatgpt.com/share/68dd8161-9938-8011-8082-56747b724f74
         if (i % 2 === 0) {
             stroke(0); 
         } else {
@@ -27,7 +27,7 @@ function drawLayers(x, y, size, layers){
 
         beginShape();
         for (let j = 0; j < 10; j++) {
-            let angle = random(TWO_PI); //randomising the angle
+            let angle = random(TWO_PI); //randomising the angle https://chatgpt.com/share/68dd8297-3d60-8011-998d-f5c158d6b93b 
             let radius = random(half - variance, half); 
             let xOffset = cos(angle) * radius;
             let yOffset = sin(angle) * radius;
@@ -41,7 +41,7 @@ function drawLayers(x, y, size, layers){
 function draw(){
     background(173, 216, 230);  
 
-    const numSquares = 10; //dram 10 bees
+    const numSquares = 10; //draw 10 bees
 
     for (let i = 0; i < numSquares; i++) {
         let x = random(0, width);

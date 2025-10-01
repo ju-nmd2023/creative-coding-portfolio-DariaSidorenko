@@ -20,7 +20,7 @@
   {
     "file": "experiments/daisies.js",
     "name": "Daisies",
-    "description": "When thinking of what flowers to draw, a Russian song by one of my favourite artists came to mind: Daisies. It was an obvious choice."
+    "description": "When thinking of what flowers to draw, a Russian song by one of my favourite artists came to mind: Daisies. It was an obvious choice. This code was based on the lecturer's example."
   },
 
   {
@@ -32,12 +32,24 @@
   {
     "file": "experiments/squares.js",
     "name": "Abstract roses",
-    "description": "While this project initially started as drawing inspiration from an artist, I was still thinking of previous projects with flowers. Therefore, i altered the sharp corners to turn them into more rounded ones to create abstract looking roses."
+    "description": "While this project initially started as drawing inspiration from an artist called Vera Molnar, I was still thinking of previous projects with flowers. Therefore, i altered the sharp corners to turn them into more rounded ones to create abstract looking roses."
   },
 
   {
     "file": "experiments/bees.js",
     "name": "Busy bees",
     "description": "The previous experiment made me think that I want to add motion to my project, after which another idea appeared - the lines don't have to be all one colour. Instead, the *buzzing* effect can be used to imitate living creatures - bees."
+  },
+
+  {
+    "file": "experiments/skyline.js",
+    "name": "Night Skyline Celebrations",
+    "description": "This project incorporates particles to recreate the magic of watching fireworks at night. They are very short-lived and maybe that is why they're so mesmerising."
+  },
+
+  {
+    "file": "experiments/skylineSound.js",
+    "name": "The sounds of lights",
+    "description": "This project is a continuation of the previous one, where each firework comes with its own sound by incorporating tone.js, as unique as the fireworks themselves."
   }
 ]

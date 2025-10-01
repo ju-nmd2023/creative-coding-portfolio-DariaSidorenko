@@ -1,20 +1,17 @@
 function setup() {
-    createCanvas(600, 600);
-    frameRate(5);
+    createCanvas(innerWidth, innerHeight);
+    frameRate(10);
 }
 
 const size = 10;
 const divider = 50;
-const numRows = 60;
-const numCols = 60;
+const numRows = 55;
+const numCols = 150;
 
 let counter = 0;
 
 function draw() {
     background(0);
-    //noStroke();
-    //fill(0, 0, 0);
-
     for (let y = 0; y < numRows; y++) {
         for (let x = 0; x < numCols; x++) {
             const r = noise(x / divider, y / divider, counter) * 255;

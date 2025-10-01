@@ -11,7 +11,7 @@ let lastSceneSwitch = 0;
 
 let attract = true; //Mouse being attracted to draw
 let symmetry = 8;
-let lfoHz = 0.2; //pulse frequency, this code was written in reference with ChatGPT
+let lfoHz = 0.2; //pulse frequency, this code was written in reference with ChatGPT https://chatgpt.com/share/68dd84fa-de80-8011-a8aa-563f7a0a1800
 let blend = "ADD";       
 
 let palettes = [];
@@ -48,7 +48,7 @@ function draw() {
   }
 
   const t = millis() / 1000;
-  const lfo = (sin(TWO_PI * lfoHz * t) + 1) * 0.5; //breathing effect for colours, achieved with help of chatgpt
+  const lfo = (sin(TWO_PI * lfoHz * t) + 1) * 0.5; //breathing effect for colours, achieved with help of chatgpt using previous link as guide
 
   // Mouse attraction
   const mouse = createVector(mouseX, mouseY);

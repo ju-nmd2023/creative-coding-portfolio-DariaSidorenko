@@ -33,7 +33,7 @@ function draw(){
     const cols = floor(width / size);
     const rows = floor(height / size);
 
-    //offseting so that the grid is centered, achieved with help of ChatGPT
+    //offseting so that the grid is centered, achieved with help of ChatGPT https://chatgpt.com/share/68dd8c4d-398c-8011-bb20-ae896a7fc4ec 
     const offsetX = (width - cols * size) / 2;
     const offsetY = (height - rows * size) / 2;
 
